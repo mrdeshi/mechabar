@@ -92,16 +92,16 @@
    - Default:
 
      ```bash
-     git clone https://github.com/sejjy/mechabar.git ~/.config/waybar
+     git clone https://github.com/mrdeshi/mechabar.git ~/.config/waybar
      cd ~/.config/waybar
      ```
 
    - Variant:
 
      ```bash
-     # git clone -b var/<name> https://github.com/sejjy/mechabar.git ~/.config/waybar
+     # git clone -b var/<name> https://github.com/mrdeshi/mechabar.git ~/.config/waybar
      # Example:
-     git clone -b var/pacman https://github.com/sejjy/mechabar.git ~/.config/waybar
+     git clone -b var/pacman https://github.com/mrdeshi/mechabar.git ~/.config/waybar
      cd ~/.config/waybar
      ```
 
