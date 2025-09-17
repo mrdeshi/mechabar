@@ -41,7 +41,7 @@
 /* Very dark background */
 @define-color main-fg #f8f8f2;
 /* Light gray foreground */
-@define-color accent #8bd5cb;
+@define-color accent @teal;
 /* Bright cyan accent (replaced purple) */
 @define-color hover-bg #1f1f28;
 /* Slightly lighter hover background */

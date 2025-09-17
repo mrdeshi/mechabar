@@ -73,6 +73,15 @@ case $1 in
 					--color='border:#6c7086,label:#cdd6f4'
 				)
 				;;
+			'custom-dark')
+                export colors=(
+                    --color='bg+:#282a36,bg:#1f1f28,spinner:#bd93f9,hl:#ff79c6'
+                    --color='fg:#f8f8f2,header:#ff79c6,info:#50fa7b,pointer:#bd93f9'
+                    --color='marker:#8be9fd,fg+:#f8f8f2,prompt:#50fa7b,hl+:#ff79c6'
+                    --color='selected-bg:#44475a'
+                    --color='border:#6272a4,label:#f8f8f2'
+                )
+                ;;
 		esac
 
 		return 0
